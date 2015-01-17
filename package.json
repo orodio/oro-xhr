@@ -1,6 +1,6 @@
 {
   "name": "oro-xhr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xhr stuff",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/orodio/oro-xhr/issues"
   },
-  "homepage": "https://github.com/orodio/oro-xhr"
+  "homepage": "https://github.com/orodio/oro-xhr",
+  "dependencies": {
+    "es6-promise": "^2.0.1"
+  }
 }

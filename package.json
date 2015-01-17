@@ -1,0 +1,23 @@
+{
+  "name": "oro-xhr",
+  "version": "1.0.0",
+  "description": "xhr stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/orodio/oro-xhr"
+  },
+  "keywords": [
+    "xhr",
+    "superagent"
+  ],
+  "author": "orodio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orodio/oro-xhr/issues"
+  },
+  "homepage": "https://github.com/orodio/oro-xhr"
+}

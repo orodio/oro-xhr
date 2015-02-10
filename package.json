@@ -1,6 +1,6 @@
 {
   "name": "oro-xhr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "xhr stuff",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/orodio/oro-xhr",
   "dependencies": {
-    "es6-promise": "^2.0.1"
+    "es6-promise": "^2.0.1",
+    "superagent": "^0.21.0"
   }
 }

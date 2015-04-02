@@ -1,7 +1,7 @@
-import { default as get } from './get'
-import { default as post } from './post'
-import { default as put } from './put'
-import { default as del } from './delete'
+import get   from './get'
+import post  from './post'
+import put   from './put'
+import del   from './delete'
 
 export {
 	get,

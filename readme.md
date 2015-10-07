@@ -1,3 +1,7 @@
+# Depricated
+
+You should use [jonjaques/sugar-xhr](https://github.com/jonjaques/sugar-xhr) instead
+
 # oro-xhr
 
 ```

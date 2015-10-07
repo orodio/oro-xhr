@@ -1,5 +1,11 @@
-module.exports = {
-  get  : require("./lib/get"),
-  post : require("./lib/post"),
-  del  : require("./lib/delete")
+import get   from './get'
+import post  from './post'
+import put   from './put'
+import del   from './delete'
+
+export {
+	get,
+	post,
+	put,
+	del
 }
